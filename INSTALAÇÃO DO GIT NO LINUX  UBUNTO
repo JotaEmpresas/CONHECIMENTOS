@@ -1,0 +1,12 @@
+
+*INSTALAR O GIT*
+
+    sudo apt-get install git
+
+*INSTALAR O GIT DESKTOP*
+* * SISTEMA COMPATIVEL COM O glibc 2.31 DO UBUNTO * * 
+- versão mais antiga do GitHub Desktop, que funcione com glibc 2.31:
+  
+      wget https://github.com/shiftkey/desktop/releases/download/release-3.1.6-linux1/GitHubDesktop-linux-3.1.6-linux1.deb
+
+      sudo dpkg -i GitHubDesktop-linux-3.1.6-linux1.deb
